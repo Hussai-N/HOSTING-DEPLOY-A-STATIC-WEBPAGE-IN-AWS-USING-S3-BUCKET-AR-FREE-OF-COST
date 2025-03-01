@@ -1,5 +1,4 @@
 # HOSTING-DEPLOY-A-STATIC-WEBPAGE-IN-AWS-USING-S3-BUCKET-AR-FREE-OF-COST
-# HOSTING & DEPLOY A STATIC WEBPAGE IN AWS USING S3 BUCKET (FREE OF COST)
 
 ## 📌 Project Description
 This project demonstrates how to **host and deploy a static website** in **Amazon S3**, a fully-managed object storage service provided by AWS. The best part — this is done **free of cost** under the **AWS Free Tier**.
